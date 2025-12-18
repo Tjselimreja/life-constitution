@@ -603,4 +603,4 @@
         document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
     </script>
 </body>
-</html># life-constitution
+</html>
